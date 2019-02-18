@@ -1,3 +1,9 @@
+# Reach PropTypes Demonstration
+
+I completed this project as an exercise about data type checking using PropTypes (as part of Lambda School). PropTypes syntax is tricky, I commented pretty heavily explaining it, and PropTypes functions as expected, so I wanted to keep a record of it.
+
+## Create React App Info:
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
